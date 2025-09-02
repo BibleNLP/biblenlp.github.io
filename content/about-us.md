@@ -48,18 +48,15 @@ Many of us are from the Bible translation community and are passionate about lev
 
 Here's some info about how to join our community:
 
-We meet regularly over zoom. Join our discord to get the link and the latest updates.
-
 1. Visit our [GitHub Organization](https://github.com/BibleNLP) to explore our projects.
 2. Check out our [Discord server](https://discord.gg/your-invite-link) to chat with other members.
-3. Contribute to our [open issues](https://github.com/BibleNLP/ebible/issues) on GitHub.
+3. Join our zoom calls (link available in the Discord server). We meet every other Friday.
 
 We'd love to have you with us!
 
 # Meetups
 
 - Missional AI '25
-
 
 # Leadership
 
