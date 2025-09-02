@@ -1,5 +1,3 @@
-# VitePress cache
 .vitepress/cache
-
-# VitePress build output
 .vitepress/dist
+node_modules/
