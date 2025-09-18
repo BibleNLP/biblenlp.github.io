@@ -49,7 +49,7 @@ Many of us are from the Bible translation community and are passionate about lev
 Here's some info about how to join our community:
 
 1. Visit our [GitHub Organization](https://github.com/BibleNLP) to explore our projects.
-2. ~~Check out our [Discord server](https://discord.gg/) to chat with other members.~~
+2. Check out our [Discord server](https://discord.gg/sFTarP2mYz) to chat with other members.
 3. Join our zoom calls (link available in the Discord server). We meet every other Friday.
 4. We have a wiki for members available here: https://github.com/BibleNLP/wiki
 
