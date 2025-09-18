@@ -11,7 +11,8 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about-us' },
-      { text: 'Articles', link: '/articles' }
+      { text: 'Articles', link: '/articles' },
+      { text: 'Collaborate', link: '/collaborate' }
     ],
 
     sidebar: [
@@ -20,6 +21,10 @@ export default defineConfig({
         items: [
           { text: 'Word Alignment', link: '/word-alignment' },
         ]
+      },
+      {
+        text: 'Collaborate',
+        link: '/collaborate'
       }
     ],
 
