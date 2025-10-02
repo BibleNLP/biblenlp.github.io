@@ -12,6 +12,7 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about-us' },
       { text: 'Articles', link: '/articles' },
+      { text: 'Resources', link: '/resources' },
       { text: 'Collaborate', link: '/collaborate' }
     ],
 
@@ -20,6 +21,7 @@ export default defineConfig({
         text: 'Articles',
         items: [
           { text: 'Word Alignment', link: '/word-alignment' },
+          { text: 'Resources', link: '/resources' },
         ]
       },
       {
