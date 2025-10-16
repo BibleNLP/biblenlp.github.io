@@ -7,12 +7,15 @@ hero:
   text: "Partnership for Applied Biblical NLP"
   tagline: Bible, Translation, Theology, Machine Learning, and Low Resource Languages
   actions:
-    - theme: brand
+    - theme: alt
       text: Articles
       link: /articles
     - theme: alt
       text: Github
       link: https://github.com/BibleNLP
+    - theme: brand
+      text: Join us on Discord
+      link: https://discord.gg/sFTarP2mYz
     - theme: alt
       text: Learn More →
       link: /about-us
