@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   srcDir: "content",
   
-  title: "PABNLP",
+  title: "PAB-NLP",
   description: "Partnership for Applied Biblical NLP",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -35,8 +35,8 @@ export default defineConfig({
     ],
 
     footer: {
-      message: "Made with ❤️ by the PABNLP community",
-      copyright: "Copyright © 2025 PABNLP"
+      message: "Made with ❤️ by the PAB-NLP community",
+      copyright: "Copyright © 2025 PAB-NLP"
     }
   }
 })

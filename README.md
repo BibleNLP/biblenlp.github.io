@@ -1,11 +1,11 @@
 
-# PABNLP Public Site
+# PAB-NLP Public Site
 
 The site is live at <https://biblenlp.github.io>
 
 ## Repository Purpose
 
-This repo serves as the public-facing site for PABNLP, providing information about our work at the intersection of Bible, natural language processing (NLP), and Bible translation. Here, you'll find our public notes, resources, and updates on topics relevant to these fields. The site also offers guidance on how to get involved with our community and contribute to ongoing projects.
+This repo serves as the public-facing site for PAB-NLP, providing information about our work at the intersection of Bible, natural language processing (NLP), and Bible translation. Here, you'll find our public notes, resources, and updates on topics relevant to these fields. The site also offers guidance on how to get involved with our community and contribute to ongoing projects.
 
 Refer to the [VitePress documentation](https://vitepress.dev/guide/) for details on configuring navigation and sidebar.
 

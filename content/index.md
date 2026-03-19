@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "PABNLP"
+  name: "PAB-NLP"
   text: "Partnership for Applied Biblical NLP"
   tagline: Bible, Translation, Theology, Machine Learning, and Low Resource Languages
   actions:
